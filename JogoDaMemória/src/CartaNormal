@@ -1,0 +1,10 @@
+public class CartaNormal extends Carta implements Efeito {
+    public CartaNormal(int idImagem){
+        super(idImagem);
+    }
+
+    @Override
+    public void aplicarEfeito(JogoMemoria jogo){
+        return;
+    }
+}
