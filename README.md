@@ -11,8 +11,6 @@ A memory card game built with Java and JavaFX. Flip cards to find matching pairs
 
 ## How to Run
 
-### 1. Clone or extract the project
-
 ```bash
 git clone <repository-url>
 cd JogoMemoria
