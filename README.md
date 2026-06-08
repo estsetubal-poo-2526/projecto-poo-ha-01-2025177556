@@ -18,6 +18,8 @@ cd JogoMemoria
 
 Or extract the ZIP and open a terminal inside the `JogoMemoria` folder.
 
+If anything related to javafx doesn't work when you try to run the game, it's probably because your IDE is selecting the wrong SDK or you simply downloaded the wrong version.
+
 ## How to Play
 
 1. Launch the game thorugh the App.java — a menu will appear.
