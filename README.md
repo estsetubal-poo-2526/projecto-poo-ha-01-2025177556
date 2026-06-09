@@ -1,6 +1,6 @@
 # Jogo da Memória
 
-A memory card game built with Java and JavaFX. Flip cards to find matching pairs before running out of attempts. Features two game modes and a bonus card mechanic.
+A memory card game built with Java and JavaFX. Flip cards to find matching pairs before running out of attempts. Features two skins for the cards and a bonus card mechanic.
 
 ---
 
