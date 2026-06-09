@@ -6,7 +6,7 @@ A memory card game built with Java and JavaFX. Flip cards to find matching pairs
 
 ## Requirements
 
-- Java 17 or higher (has to be liberica full JDK or download javaFX separately).
+- Java 17 or higher (has to be liberica full JDK).
 ---
 
 ## How to Run
